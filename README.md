@@ -19,7 +19,7 @@ body {
 .header {
   padding: 30px;
   text-align: center;
-  background: white;
+  background: black;
 }
 
 .header h1 {
